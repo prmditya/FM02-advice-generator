@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/prmditya/FM02-advice-generator)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Live Site URL: [GitHub Page](https://prmditya.github.io/FM02-advice-generator/)
 
 ## My process
 
